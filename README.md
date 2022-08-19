@@ -1,3 +1,7 @@
+
+###  🔽[Download] Android APK
+https://drive.google.com/file/d/1bnbTFxeBIIQNniaZNx_rkPYhbeB1Piya/view?usp=sharing
+
 <h1 align="center" style="font-size: 52px;" ><img height=30 src="https://user-images.githubusercontent.com/76682594/185515619-36718090-7e1b-4f0d-a888-03fa8414958a.png"> Arslan Arge Personel/Makine Verim Uygulaması </h1>
 
 
@@ -6,8 +10,6 @@
 
  <img src = "https://user-images.githubusercontent.com/76682594/185516837-4eba5f44-4138-4118-916a-c1382f30dfac.jpg">
 
-###  🔽[Download] Android APK
-https://drive.google.com/file/d/1bnbTFxeBIIQNniaZNx_rkPYhbeB1Piya/view?usp=sharing
 
 ###  🔽 Uygulama Ön İzleme
 https://user-images.githubusercontent.com/76682594/185516195-3170cfe7-e40b-4a74-9960-d201b031709b.mp4
