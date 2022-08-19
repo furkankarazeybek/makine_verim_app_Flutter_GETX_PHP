@@ -5,5 +5,5 @@ https://user-images.githubusercontent.com/76682594/185515619-36718090-7e1b-4f0d-
 https://drive.google.com/file/d/1bnbTFxeBIIQNniaZNx_rkPYhbeB1Piya/view?usp=sharing
 
 ###  🔽 Uygulama Ön İzleme
-https://user-images.githubusercontent.com/76682594/185516121-4a986f98-f63a-42c9-a6ac-ce6bff5e0b7a.mp4
+https://user-images.githubusercontent.com/76682594/185516195-3170cfe7-e40b-4a74-9960-d201b031709b.mp4
 
